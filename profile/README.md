@@ -1,12 +1,12 @@
-# 🌅 Luma Framework
+# 🌅 Pulse Framework
 
-**Luma** is the next-generation RolePlay framework built for the future of GTA VI modding.
+**Pulse** is the next-generation RolePlay framework built for the future of GTA VI modding.
 
-Designed with developers in mind, Luma makes it easy to build immersive, high-performance RP servers using clean code and modern standards. Whether you're creating custom plugins, or running a server, Luma gives you the tools you need to go faster, build better, and monetize smarter.
+Designed with developers in mind, Pulse makes it easy to build immersive, high-performance RP servers using clean code and modern standards. Whether you're creating custom plugins, or running a server, Pulse gives you the tools you need to go faster, build better, and monetize smarter.
 
-## 🎯 What is Luma?
+## 🎯 What is Pulse?
 
-Luma is a free and open-source framework for GTA VI RP servers. Inspired by the best parts of existing frameworks (like ESX and QBCore), Luma is built from scratch with:
+Pulse is a free and open-source framework for GTA VI RP servers. Inspired by the best parts of existing frameworks (like ESX and QBCore), Pulse is built from scratch with:
 
 - ⚡️ Performance as a priority
 - 🧠 Simplicity and modern TypeScript APIs
@@ -14,12 +14,12 @@ Luma is a free and open-source framework for GTA VI RP servers. Inspired by the 
 - 🌴 Miami-style aesthetic and smooth UX
 - 💸 Support for premium plugin development
 
-## 🚀 Why use Luma?
+## 🚀 Why use Pulse?
 
 - ✅ **Built for GTA VI** — Native support and optimization for the next-gen experience
 - 🎨 **Chill, modern design** — Inspired by the Vice City vibes and sunset skies
 - 🛠️ **Dev-first architecture** — Make plugins with confidence, using TypeScript
-- 💼 **Monetize your work** — Create and sell premium plugins on top of the Luma ecosystem
+- 💼 **Monetize your work** — Create and sell premium plugins on top of the Pulse ecosystem
 
 ## 📦 Coming Soon
 
@@ -38,6 +38,6 @@ Luma is a free and open-source framework for GTA VI RP servers. Inspired by the 
 
 Follow us on Twitter, Discord, and GitHub to get early access and contribute to the future of GTA VI RP.
 
-> _Luma: Let your creativity shine in the city of dreams._
+> _Pulse: Let your creativity shine in the city of dreams._
 
 ---
